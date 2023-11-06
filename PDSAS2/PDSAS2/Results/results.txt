@@ -1,0 +1,5 @@
+(b) #Substitute missing values in the 'Mileage,' 'Engine,' and 'Power' columns with their respective medians. Median replacement is the preferred method because it maintains the central tendency and mitigates the impact of outliers.
+
+#Replace missing values in the 'Seats' column with the mode. Since the number of seats is a discrete quantitative value, the mode is an appropriate choice.
+
+#Due to a significant number of missing values in the 'Newprice' column, it is advisable to remove this column from the dataset. Imputing values in such cases may introduce outliers and potentially lead to inaccurate analyses.
